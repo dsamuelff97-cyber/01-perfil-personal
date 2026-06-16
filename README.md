@@ -4,7 +4,7 @@ Static personal profile page built with semantic HTML5 as the first project of m
 
 
 ## Live Demo
-[Coming soon — will be deployed with GitHub Pages]
+[View live site](https://dsamuelff97-cyber.github.io/01-perfil-personal/)
 
 ## Technologies
 - HTML5
